@@ -1,0 +1,17 @@
+{
+  "name": "armado-base",
+  "version": "1.0.0",
+  "main": "robot-armar-base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}

@@ -1,0 +1,233 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Reportes
+</title><meta http-equiv="Page-Enter" content="revealTrans(Duration=1,Transition=80)" /><link href="../../css/estilos.css" rel="stylesheet" type="text/css" /></head>
+
+<body  oncontextmenu="javascript:alert('Click derecho deshabilitado para esta p&aacute;gina');return false;">
+    <form name="form1" method="post" action="FormReportes.aspx?NombreReporte=ReporteReclamacionesPersonasJuridicas&amp;Nit=899999123&amp;Annio=2024" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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J1JlcG9ydFZpZXdlcicpLkNsaWVudENvbnRyb2xsZXIuU2V0Wm9vbShldmVudC5zcmNFbGVtZW50LnZhbHVlKTseCGRpc2FibGVkBQhkaXNhYmxlZGQWAQIFZAIED2QWAmYPDxYCHwhoFgQeEG9ucHJvcGVydHljaGFuZ2UFlQJpZiAoZXZlbnQucHJvcGVydHlOYW1lID09ICd2YWx1ZScpDQp7DQogICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ1JlcG9ydFZpZXdlcl9jdGwwMV9jdGwwNF9jdGwwMScpLkNvbnRyb2xsZXIuU2V0Vmlld2VyTGlua0FjdGl2ZSh0aGlzLnZhbHVlICE9IG51bGwgJiYgdGhpcy52YWx1ZSAhPSAnJyk7DQogICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ1JlcG9ydFZpZXdlcl9jdGwwMV9jdGwwNF9jdGwwMycpLkNvbnRyb2xsZXIuU2V0Vmlld2VyTGlua0FjdGl2ZShmYWxzZSk7DQp9HwkF0wFpZiAoZXZlbnQua2V5Q29kZSA9PSAxMCB8fCBldmVudC5rZXlDb2RlID09IDEzKSB7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ1JlcG9ydFZpZXdlcicpLkNsaWVudENvbnRyb2xsZXIuQWN0aW9uSGFuZGxlcignU2VhcmNoJywgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ1JlcG9ydFZpZXdlcl9jdGwwMV9jdGwwNF9jdGwwMCcpLnZhbHVlKTs7IHJldHVybiBmYWxzZTt9ZAIGD2QWAmYPZBYCZg8PFgYfAxsAAAAAAAAwQAEAAAAfBBsAAAAAAAAwQAEAAAAfBQKAAxYCHwYFDHBhZGRpbmc6MnB4O2QCBw9kFgJmD2QWBGYPZBYCZg8PFgYfAxsAAAAAAAAwQAEAAAAfBBsAAAAAAAAwQAEAAAAfBQKAAxYCHwYFDHBhZGRpbmc6MnB4O2QCAQ9kFgJmDw8WBh8DGwAAAAAAADBAAQAAAB8EGwAAAAAAADBAAQAAAB8FAoADFgIfBgUMcGFkZGluZzoycHg7ZAIIDw8WAh8AaGRkAgYPFgIeBVZhbHVlBQEwZAIHDxYCHw0FBWZhbHNlZAIIDxYCHw0FBWZhbHNlZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WDgUkUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAwJGN0bDAwJGN0bDAwBSpSZXBvcnRWaWV3ZXIkY3RsMDEkY3RsMDEkY3RsMDAkY3RsMDAkY3RsMDAFKlJlcG9ydFZpZXdlciRjdGwwMSRjdGwwMSRjdGwwMCRjdGwwMSRjdGwwMAUqUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDAxJGN0bDAwJGN0bDAwBSpSZXBvcnRWaWV3ZXIkY3RsMDEkY3RsMDEkY3RsMDEkY3RsMDEkY3RsMDAFKlJlcG9ydFZpZXdlciRjdGwwMSRjdGwwMSRjdGwwNSRjdGwwMCRjdGwwMAUqUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAxJGN0bDA1JGN0bDAxJGN0bDAwBSpSZXBvcnRWaWV3ZXIkY3RsMDEkY3RsMDEkY3RsMDYkY3RsMDAkY3RsMDAFKlJlcG9ydFZpZXdlciRjdGwwMSRjdGwwMSRjdGwwNiRjdGwwMSRjdGwwMAUqUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDAyJGN0bDAwJGN0bDAwJGN0bDAwBSpSZXBvcnRWaWV3ZXIkY3RsMDEkY3RsMDIkY3RsMDAkY3RsMDEkY3RsMDAFJFJlcG9ydFZpZXdlciRjdGwwMSRjdGwwNiRjdGwwMCRjdGwwMAUqUmVwb3J0Vmlld2VyJGN0bDAxJGN0bDA3JGN0bDAwJGN0bDAwJGN0bDAwBSpSZXBvcnRWaWV3ZXIkY3RsMDEkY3RsMDckY3RsMDAkY3RsMDEkY3RsMDDvdi9v8jv/mR3vo8YvpuS4ik0Z7Q==" />
+
+
+<script src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Scripts.ReportViewer.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function RVClientImageToggle(shouldEnable, image1Id, image2Id)
+{
+    var enableHover = document.getElementById(image1Id);
+    var disableHover = document.getElementById(image2Id);
+    if (enableHover == null || disableHover == null)
+        return;
+    if (shouldEnable)
+    {
+        enableHover.style.display = "";
+        disableHover.style.display = "none";
+    }
+    else
+    {
+        disableHover.style.display = "";
+        enableHover.style.display = "none";
+    }
+}//]]>
+</script>
+
+<script src="/WEB_ECAT/ScriptResource.axd?d=wi0MvCadngut00JAvONV1S7M3sPazRFonuy_FJZ2HOsd8Uhy9rPw_kLhpVkSpINfHAm4OBkM8mu731VEb3KZf2yw-U835whZyiHu5MQd9aDYqkHtrIRSImmMz2ci5xKAS0rMuZxvqjZs1IKemcTAgR6IeBA1&amp;t=ffffffff9bc22534" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="27D1B3A1" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWGgLTnoDsAgLZ8YmLBwLZ8fWUBQLa8Y22AQLa8fm/DwLwsIvHAgK98v2xAgK98uk7Ar3ygdEKAr3y7doIAsyjteIKAu/RofIJAoWlgK8MAqbv1u4IAsz1/YYBAu+Dl/oOArvqr/kNAomB5tkCAsaZ89oPAp7Uqv8BAom6m5wPApz1/bgGApz1gbkGApz19bgGApz1+bgGApz1jbkGjnIOPphr0QiL4Kht3/oDVj/kEsA=" />
+    
+        <div>
+           <span id="LabelError"></span>
+        
+        </div>
+        <div id="ReportViewer" style="display:inline-block;">
+	<Script language="javascript"><!--
+
+if (document.getElementById('ReportViewer') != null)
+{
+    document.getElementById('ReportViewer').ClientController = new RSClientController("ReportViewer_ctl03", "ReportFrameReportViewer", "/WEB_ECAT/Reserved.ReportViewerWebControl.axd?ReportSession=psfpbd45ojymjrejs1boepys&ControlID=0bb0cc51bd4d4e1da5f075f3bde8e38f&Culture=9226&UICulture=9226&ReportStack=1&OpType=DocMapArea&Controller=ReportViewer&RootLabel=ReporteReclamacionesPersonasJuridicas&BackColor=%23ECE9D8&Border=1px+Black+Solid&Font=font-family%3aVerdana%3bfont-size%3a8pt%3b", "25%", false, "/WEB_ECAT/Reserved.ReportViewerWebControl.axd?ReportSession=psfpbd45ojymjrejs1boepys&ControlID=0bb0cc51bd4d4e1da5f075f3bde8e38f&Culture=9226&UICulture=9226&ReportStack=1&OpType=ReportArea&Controller=ReportViewer&LinkTarget=_top", true, true, true, true, true, true, "ReportViewer_ctl06", true, "\/WEB_ECAT\/Reserved.ReportViewerWebControl.axd?ReportSession=psfpbd45ojymjrejs1boepys&ControlID=0bb0cc51bd4d4e1da5f075f3bde8e38f&Culture=9226&UICulture=9226&ReportStack=1&OpType=Export&FileName=ReporteReclamacionesPersonasJuridicas&ContentDisposition=OnlyHtmlInline&Format=", "PrintFrameReportViewer", "\/WEB_ECAT\/Reserved.ReportViewerWebControl.axd?ReportSession=psfpbd45ojymjrejs1boepys&ControlID=0bb0cc51bd4d4e1da5f075f3bde8e38f&Culture=9226&UICulture=9226&ReportStack=1&OpType=PrintHtml", "ReportViewer_ctl07", "ReportViewer_ctl00", "ReportViewer_ctl08");
+    document.getElementById('ReportViewer').ClientController.PostBackAction =
+        function(actionType, actionParam)
+        {
+            document.getElementById("ReportViewer_ctl04").value = actionType;
+            document.getElementById("ReportViewer_ctl05").value = actionParam;
+            __doPostBack('ReportViewer','');
+        };
+}
+--></Script><div style="display:inline-block;display:inline;"><font face="Verdana" size="1">
+		<div>
+			<div class=" " style="display:inline;direction:ltr;"><font face="Verdana" size="1">
+				<table cellpadding="0" cellspacing="0" style="display:inline;">
+					<tr>
+						<td height="28px"><div>
+							<table id="ReportViewer_ctl01_ctl01_ctl00_ctl00" onclick="document.getElementById('ReportViewer').ClientController.ActionHandler('PageNav', 1);return false;" onmouseover="this.Controller.OnHover();" onmouseout="this.Controller.OnNormal();" title="First Page" style="display:none;">
+								<script type="text/javascript">
+									document.getElementById('ReportViewer_ctl01_ctl01_ctl00_ctl00').Controller = new ReportViewerHoverButton("ReportViewer_ctl01_ctl01_ctl00_ctl00", false, "", "", "", "#ECE9D8", "#DDEEF7", "#99BBE2", "1px #ECE9D8 Solid", "1px #336699 Solid", "1px #336699 Solid");
+								</script><tr>
+									<td><input type="image" name="ReportViewer$ctl01$ctl01$ctl00$ctl00$ctl00" title="First Page" src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Icons.FirstPage.gif" alt="First Page" border="0" style="padding:2px;" /></td>
+								</tr>
+							</table><script>
+								document.getElementById('ReportViewer_ctl01_ctl01_ctl00_ctl00').Controller.OnNormal();
+							</script><table id="ReportViewer_ctl01_ctl01_ctl00_ctl01" disabled="disabled" onmouseout="this.Controller.OnNormal();" title="First Page">
+								<script type="text/javascript">
+									document.getElementById('ReportViewer_ctl01_ctl01_ctl00_ctl01').Controller = new ReportViewerHoverButton("ReportViewer_ctl01_ctl01_ctl00_ctl01", false, "", "", "", "#ECE9D8", "#DDEEF7", "#99BBE2", "1px #ECE9D8 Solid", "1px #336699 Solid", "1px #336699 Solid");
+								</script><tr>
+									<td><input type="image" name="ReportViewer$ctl01$ctl01$ctl00$ctl01$ctl00" disabled="disabled" title="First Page" src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Icons.FirstPageDisabled.gif" alt="First Page" border="0" style="padding:2px;cursor:default;" /></td>
+								</tr>
+							</table><script>
+								document.getElementById('ReportViewer_ctl01_ctl01_ctl00_ctl01').Controller.OnNormal();
+							</script>
+						</div></td><td width="4px"></td><td height="28px"><div>
+							<table id="ReportViewer_ctl01_ctl01_ctl01_ctl00" onclick="document.getElementById('ReportViewer').ClientController.ActionHandler('PageNav', document.getElementById('ReportViewer').ClientController.CurrentPage-1);return false;" onmouseover="this.Controller.OnHover();" onmouseout="this.Controller.OnNormal();" title="Previous Page" style="display:none;">
+								<script type="text/javascript">
+									document.getElementById('ReportViewer_ctl01_ctl01_ctl01_ctl00').Controller = new ReportViewerHoverButton("ReportViewer_ctl01_ctl01_ctl01_ctl00", false, "", "", "", "#ECE9D8", "#DDEEF7", "#99BBE2", "1px #ECE9D8 Solid", "1px #336699 Solid", "1px #336699 Solid");
+								</script><tr>
+									<td><input type="image" name="ReportViewer$ctl01$ctl01$ctl01$ctl00$ctl00" title="Previous Page" src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Icons.PrevPage.gif" alt="Previous Page" border="0" style="padding:2px;" /></td>
+								</tr>
+							</table><script>
+								document.getElementById('ReportViewer_ctl01_ctl01_ctl01_ctl00').Controller.OnNormal();
+							</script><table id="ReportViewer_ctl01_ctl01_ctl01_ctl01" disabled="disabled" onmouseout="this.Controller.OnNormal();" title="Previous Page">
+								<script type="text/javascript">
+									document.getElementById('ReportViewer_ctl01_ctl01_ctl01_ctl01').Controller = new ReportViewerHoverButton("ReportViewer_ctl01_ctl01_ctl01_ctl01", false, "", "", "", "#ECE9D8", "#DDEEF7", "#99BBE2", "1px #ECE9D8 Solid", "1px #336699 Solid", "1px #336699 Solid");
+								</script><tr>
+									<td><input type="image" name="ReportViewer$ctl01$ctl01$ctl01$ctl01$ctl00" disabled="disabled" title="Previous Page" src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Icons.PrevPageDisabled.gif" alt="Previous Page" border="0" style="padding:2px;cursor:default;" /></td>
+								</tr>
+							</table><script>
+								document.getElementById('ReportViewer_ctl01_ctl01_ctl01_ctl01').Controller.OnNormal();
+							</script>
+						</div></td><td width="4px"></td><td height="28px"><input name="ReportViewer$ctl01$ctl01$ctl02" type="text" maxlength="8" size="3" id="ReportViewer_ctl01_ctl01_ctl02" disabled="disabled" title="Current Page" onkeypress="if (event.keyCode == 10 || event.keyCode == 13) {
+var pageNumber = parseInt(this.value, 10);
+if (isNaN(pageNumber) || pageNumber &lt; 1 || pageNumber > document.getElementById('ReportViewer').ClientController.TotalPages)
+    alert('Enter a valid page number');
+else
+    document.getElementById('ReportViewer').ClientController.ActionHandler('PageNav', pageNumber);;; return false;}" /></td><td width="4px"></td><td height="28px"><span><font face="Verdana" size="1">of</font></span></td><td width="4px"></td><td height="28px"><span id="ReportViewer_ctl01_ctl01_ctl04"><font face="Verdana" size="1">0</font></span></td><td width="4px"></td><td height="28px"><div>
+							<table id="ReportViewer_ctl01_ctl01_ctl05_ctl00" onclick="document.getElementById('ReportViewer').ClientController.ActionHandler('PageNav', document.getElementById('ReportViewer').ClientController.CurrentPage+1);return false;" onmouseover="this.Controller.OnHover();" onmouseout="this.Controller.OnNormal();" title="Next Page" style="display:none;">
+								<script type="text/javascript">
+									document.getElementById('ReportViewer_ctl01_ctl01_ctl05_ctl00').Controller = new ReportViewerHoverButton("ReportViewer_ctl01_ctl01_ctl05_ctl00", false, "", "", "", "#ECE9D8", "#DDEEF7", "#99BBE2", "1px #ECE9D8 Solid", "1px #336699 Solid", "1px #336699 Solid");
+								</script><tr>
+									<td><input type="image" name="ReportViewer$ctl01$ctl01$ctl05$ctl00$ctl00" title="Next Page" src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Icons.NextPage.gif" alt="Next Page" border="0" style="padding:2px;" /></td>
+								</tr>
+							</table><script>
+								document.getElementById('ReportViewer_ctl01_ctl01_ctl05_ctl00').Controller.OnNormal();
+							</script><table id="ReportViewer_ctl01_ctl01_ctl05_ctl01" disabled="disabled" onmouseout="this.Controller.OnNormal();" title="Next Page">
+								<script type="text/javascript">
+									document.getElementById('ReportViewer_ctl01_ctl01_ctl05_ctl01').Controller = new ReportViewerHoverButton("ReportViewer_ctl01_ctl01_ctl05_ctl01", false, "", "", "", "#ECE9D8", "#DDEEF7", "#99BBE2", "1px #ECE9D8 Solid", "1px #336699 Solid", "1px #336699 Solid");
+								</script><tr>
+									<td><input type="image" name="ReportViewer$ctl01$ctl01$ctl05$ctl01$ctl00" disabled="disabled" title="Next Page" src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Icons.NextPageDisabled.gif" alt="Next Page" border="0" style="padding:2px;cursor:default;" /></td>
+								</tr>
+							</table><script>
+								document.getElementById('ReportViewer_ctl01_ctl01_ctl05_ctl01').Controller.OnNormal();
+							</script>
+						</div></td><td width="4px"></td><td height="28px"><div>
+							<table id="ReportViewer_ctl01_ctl01_ctl06_ctl00" onclick="document.getElementById('ReportViewer').ClientController.ActionHandler('PageNav', document.getElementById('ReportViewer').ClientController.TotalPages);return false;" onmouseover="this.Controller.OnHover();" onmouseout="this.Controller.OnNormal();" title="Last Page" style="display:none;">
+								<script type="text/javascript">
+									document.getElementById('ReportViewer_ctl01_ctl01_ctl06_ctl00').Controller = new ReportViewerHoverButton("ReportViewer_ctl01_ctl01_ctl06_ctl00", false, "", "", "", "#ECE9D8", "#DDEEF7", "#99BBE2", "1px #ECE9D8 Solid", "1px #336699 Solid", "1px #336699 Solid");
+								</script><tr>
+									<td><input type="image" name="ReportViewer$ctl01$ctl01$ctl06$ctl00$ctl00" title="Last Page" src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Icons.LastPage.gif" alt="Last Page" border="0" style="padding:2px;" /></td>
+								</tr>
+							</table><script>
+								document.getElementById('ReportViewer_ctl01_ctl01_ctl06_ctl00').Controller.OnNormal();
+							</script><table id="ReportViewer_ctl01_ctl01_ctl06_ctl01" disabled="disabled" onmouseout="this.Controller.OnNormal();" title="Last Page">
+								<script type="text/javascript">
+									document.getElementById('ReportViewer_ctl01_ctl01_ctl06_ctl01').Controller = new ReportViewerHoverButton("ReportViewer_ctl01_ctl01_ctl06_ctl01", false, "", "", "", "#ECE9D8", "#DDEEF7", "#99BBE2", "1px #ECE9D8 Solid", "1px #336699 Solid", "1px #336699 Solid");
+								</script><tr>
+									<td><input type="image" name="ReportViewer$ctl01$ctl01$ctl06$ctl01$ctl00" disabled="disabled" title="Last Page" src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Icons.LastPageDisabled.gif" alt="Last Page" border="0" style="padding:2px;cursor:default;" /></td>
+								</tr>
+							</table><script>
+								document.getElementById('ReportViewer_ctl01_ctl01_ctl06_ctl01').Controller.OnNormal();
+							</script>
+						</div></td>
+					</tr>
+				</table>
+			</font></div><table cellpadding="0" cellspacing="0" ToolbarSpacer="true" style="display:inline;">
+				<tr>
+					<td width="20"></td>
+				</tr>
+			</table><div class=" " style="display:inline;"><font face="Verdana" size="1">
+				<table cellpadding="0" cellspacing="0" style="display:inline;">
+					<tr>
+						<td height="28px"><select name="ReportViewer$ctl01$ctl05$ctl00" id="ReportViewer_ctl01_ctl05_ctl00" title="Export Formats" onChange="document.getElementById('ReportViewer_ctl01_ctl05_ctl01').Controller.SetViewerLinkActive(document.getElementById('ReportViewer_ctl01_ctl05_ctl00').selectedIndex != 0);">
+							<option selected="selected" value="Select a format">Select a format</option>
+							<option value="WORDOPENXML">Word</option>
+							<option value="EXCELOPENXML">Excel</option>
+							<option value="PPTX">PowerPoint</option>
+							<option value="PDF">PDF</option>
+							<option value="IMAGE">Archivo TIFF</option>
+							<option value="MHTML">MHTML (archivo web)</option>
+							<option value="CSV">CSV (delimitado por comas)</option>
+							<option value="XML">Archivo XML con datos de informe</option>
+							<option value="ATOM">Fuente de datos</option>
+
+						</select></td><td width="4px"></td><td height="28px"><a id="ReportViewer_ctl01_ctl05_ctl01" onclick="
+var formatDropDown = document.getElementById('ReportViewer_ctl01_ctl05_ctl00');
+if (formatDropDown.selectedIndex == 0)
+    return false;
+window.open(document.getElementById('ReportViewer').ClientController.m_exportUrlBase + encodeURIComponent(formatDropDown.value), '_blank')
+formatDropDown.selectedIndex = 0;
+document.getElementById('ReportViewer_ctl01_ctl05_ctl01').Controller.SetViewerLinkActive(document.getElementById('ReportViewer_ctl01_ctl05_ctl00').selectedIndex != 0);return false;" onmouseover="this.Controller.OnLinkHover();" onmouseout="this.Controller.OnLinkNormal();" title="Export" href="#"><font face="Verdana" color="Gray" size="1"><script type="text/javascript">
+							document.getElementById('ReportViewer_ctl01_ctl05_ctl01').Controller = new ReportViewerLink("ReportViewer_ctl01_ctl05_ctl01", false, "", "", "#3366CC", "Gray", "#FF3300");
+						</script>Export</font></a></td>
+					</tr>
+				</table>
+			</font></div><table cellpadding="0" cellspacing="0" ToolbarSpacer="true" style="display:inline;">
+				<tr>
+					<td width="20"></td>
+				</tr>
+			</table><div class=" " style="display:inline;"><font face="Verdana" size="1">
+				<table cellpadding="0" cellspacing="0" style="display:inline;">
+					<tr>
+						<td height="28px"><table id="ReportViewer_ctl01_ctl06_ctl00" onclick="document.getElementById('ReportViewer').ClientController.ActionHandler('Refresh', null);return false;" onmouseover="this.Controller.OnHover();" onmouseout="this.Controller.OnNormal();" title="Refresh">
+							<script type="text/javascript">
+								document.getElementById('ReportViewer_ctl01_ctl06_ctl00').Controller = new ReportViewerHoverButton("ReportViewer_ctl01_ctl06_ctl00", false, "", "", "", "#ECE9D8", "#DDEEF7", "#99BBE2", "1px #ECE9D8 Solid", "1px #336699 Solid", "1px #336699 Solid");
+							</script><tr>
+								<td><input type="image" name="ReportViewer$ctl01$ctl06$ctl00$ctl00" title="Refresh" src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=Resource&amp;Version=9.0.30729.4402&amp;Name=Microsoft.Reporting.WebForms.Icons.Refresh.gif" alt="Refresh" border="0" style="padding:2px;" /></td>
+							</tr>
+						</table><script>
+							document.getElementById('ReportViewer_ctl01_ctl06_ctl00').Controller.OnNormal();
+						</script></td>
+					</tr>
+				</table>
+			</font></div>
+		</div>
+	</font></div><input type="hidden" name="ReportViewer$ctl04" id="ReportViewer_ctl04" /><input type="hidden" name="ReportViewer$ctl05" id="ReportViewer_ctl05" /><input type="hidden" name="ReportViewer$ctl06" id="ReportViewer_ctl06" value="0" /><input type="hidden" name="ReportViewer$ctl07" id="ReportViewer_ctl07" value="false" /><input type="hidden" name="ReportViewer$ctl08" id="ReportViewer_ctl08" value="false" /><noscript>
+		&nbsp;Your browser does not support scripts or has been configured not to allow scripts.
+	</noscript><Script language="javascript"><!--
+
+    document.getElementById('ReportViewer').ClientController.CustomOnReportLoaded = function() {if (document.getElementById('ReportViewer').ClientController.HasDocumentMap()) RVTB_SetHasDocMap("ReportViewer_ctl01_ctl00");
+if (document.getElementById("ReportViewer_ctl01_ctl01_ctl02") != null) 
+{
+document.getElementById("ReportViewer_ctl01_ctl01_ctl02").value = document.getElementById('ReportViewer').ClientController.CurrentPage;
+document.getElementById("ReportViewer_ctl01_ctl01_ctl02").disabled = (document.getElementById('ReportViewer').ClientController.TotalPages > 1) ? null : "disabled";
+document.getElementById("ReportViewer_ctl01_ctl01_ctl04").innerHTML = document.getElementById('ReportViewer').ClientController.TotalPages;
+}RVClientImageToggle(document.getElementById('ReportViewer').ClientController.CurrentPage>1, 'ReportViewer_ctl01_ctl01_ctl00_ctl00', 'ReportViewer_ctl01_ctl01_ctl00_ctl01');RVClientImageToggle(document.getElementById('ReportViewer').ClientController.CurrentPage>1, 'ReportViewer_ctl01_ctl01_ctl01_ctl00', 'ReportViewer_ctl01_ctl01_ctl01_ctl01');RVClientImageToggle(document.getElementById('ReportViewer').ClientController.CurrentPage<document.getElementById('ReportViewer').ClientController.TotalPages, 'ReportViewer_ctl01_ctl01_ctl05_ctl00', 'ReportViewer_ctl01_ctl01_ctl05_ctl01');RVClientImageToggle(document.getElementById('ReportViewer').ClientController.CurrentPage<document.getElementById('ReportViewer').ClientController.TotalPages, 'ReportViewer_ctl01_ctl01_ctl06_ctl00', 'ReportViewer_ctl01_ctl01_ctl06_ctl01');if (document.getElementById("ReportViewer_ctl01_ctl05_ctl00") != null) document.getElementById("ReportViewer_ctl01_ctl05_ctl00").disabled = null;document.getElementById('ReportViewer_ctl01_ctl05_ctl01').Controller.SetViewerLinkActive(document.getElementById('ReportViewer_ctl01_ctl05_ctl00').selectedIndex != 0);};
+    document.getElementById('ReportViewer').ClientController.CustomOnAsyncPageChange = function() {if (document.getElementById("ReportViewer_ctl01_ctl01_ctl02") != null) document.getElementById("ReportViewer_ctl01_ctl01_ctl02").disabled = "disabled";RVClientImageToggle(false, 'ReportViewer_ctl01_ctl01_ctl00_ctl00', 'ReportViewer_ctl01_ctl01_ctl00_ctl01');RVClientImageToggle(false, 'ReportViewer_ctl01_ctl01_ctl01_ctl00', 'ReportViewer_ctl01_ctl01_ctl01_ctl01');RVClientImageToggle(false, 'ReportViewer_ctl01_ctl01_ctl05_ctl00', 'ReportViewer_ctl01_ctl01_ctl05_ctl01');RVClientImageToggle(false, 'ReportViewer_ctl01_ctl01_ctl06_ctl00', 'ReportViewer_ctl01_ctl01_ctl06_ctl01');if (document.getElementById("ReportViewer_ctl01_ctl05_ctl00") != null) document.getElementById("ReportViewer_ctl01_ctl05_ctl00").disabled = "disabled";document.getElementById('ReportViewer_ctl01_ctl05_ctl01').Controller.SetViewerLinkActive(false);};
+    document.getElementById('ReportViewer').ClientController.CustomOnDocMapVisibilityChange = function() {};
+    document.getElementById('ReportViewer').ClientController.CustomOnPromptAreaVisibilityChange = function() {};
+    document.getElementById('ReportViewer').ClientController.CustomOnReloadDocMap = function() {};
+--></Script><iframe src="/WEB_ECAT/Reserved.ReportViewerWebControl.axd?OpType=DocMapReport&amp;ClientController=ReportViewer&amp;ReportUrl=%2fWEB_ECAT%2fReserved.ReportViewerWebControl.axd%3fReportSession%3dpsfpbd45ojymjrejs1boepys%26ControlID%3d0bb0cc51bd4d4e1da5f075f3bde8e38f%26Culture%3d9226%26UICulture%3d9226%26ReportStack%3d1%26OpType%3dReportArea%26Controller%3dReportViewer%26PageNumber%3d1%26ZoomMode%3dPercent%26ZoomPct%3d100%26ReloadDocMap%3dtrue%26SearchStartPage%3d0%26LinkTarget%3d_top" frameborder="0" id="ReportFrameReportViewer" name="ReportFrameReportViewer" style="display:inline;">
+
+	</iframe>
+</div><iframe name="ReportViewerTouchSession0" id="ReportViewerTouchSession0" onload="if (frames['ReportViewerTouchSession0'].location != 'javascript:\'\'') frames['ReportViewerTouchSession0'].location.replace('javascript:\'\'');" src="javascript:''">
+
+</iframe><script type="text/javascript">
+	setTimeout("frames['ReportViewerTouchSession0'].location.replace('\\\/WEB_ECAT\\\/Reserved.ReportViewerWebControl.axd?ReportSession=psfpbd45ojymjrejs1boepys&ControlID=0bb0cc51bd4d4e1da5f075f3bde8e38f&Culture=9226&UICulture=9226&ReportStack=1&OpType=SessionKeepAlive&TimerMethod=KeepAliveMethodReportViewerTouchSession0&CacheSeed=' + encodeURIComponent(Date()));", 0);function KeepAliveMethodReportViewerTouchSession0() {setTimeout("frames['ReportViewerTouchSession0'].location.replace('\\\/WEB_ECAT\\\/Reserved.ReportViewerWebControl.axd?ReportSession=psfpbd45ojymjrejs1boepys&ControlID=0bb0cc51bd4d4e1da5f075f3bde8e38f&Culture=9226&UICulture=9226&ReportStack=1&OpType=SessionKeepAlive&TimerMethod=KeepAliveMethodReportViewerTouchSession0&CacheSeed=' + encodeURIComponent(Date()));", 514000);}
+</script><Script language="javascript"><!--
+document.getElementById('ReportViewer').ClientController.ShowInitialWaitFrame();
+
+--></Script>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>
+
+
+
+

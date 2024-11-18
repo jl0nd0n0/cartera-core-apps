@@ -1,0 +1,5 @@
+#compilar
+	gcc -o robot robot.c
+	
+# ejecutar 	
+	robot.exe "C:\\archivos\\proyectos\\cartera\\apps\\robots"
