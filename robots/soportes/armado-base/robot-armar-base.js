@@ -82,7 +82,7 @@ function processInvoices() {
         const folder = destinationFolder + '/' + prefijo + numero;
         if (!fs.existsSync(folder)) {
             fs.mkdirSync(folder);
-            console.log("directorio creado: " + folder);
+            //console.log("directorio creado: " + folder);
         }
 
         // Query the database for file paths
